@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "999820130671",
+    "project_id": "sendpushs",
+    "storage_bucket": "sendpushs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999820130671:android:8e75b41c2f943e6c2f909a",
+        "android_client_info": {
+          "package_name": "com.example.fcm_demo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqPecWAXrFYYnXWwJBB_b4hyMZRIf5aaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999820130671:android:df7b4606476d9e1a2f909a",
+        "android_client_info": {
+          "package_name": "com.example.sendpush"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqPecWAXrFYYnXWwJBB_b4hyMZRIf5aaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
